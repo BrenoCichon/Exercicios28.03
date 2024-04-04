@@ -1,7 +1,9 @@
-package Aula02;
+package breno;
+
 import java.util.Scanner;
 
-public class Atividade10 {
+public class exercicio01 {
+{
 public static void main (String[] args) {
 	Scanner scanner = new Scanner(System.in);
 	
